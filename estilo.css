@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+.botao {
+    height: 50px;
+    width: 90px;
+    background-image: linear-gradient(300deg, rgb(236, 236, 236), rgb(228, 226, 226));
+    border: 1px solid rgb(194, 194, 194);
+}
+
+.botao:hover {
+    background-image: linear-gradient(300deg, gray, gray);
+}
